@@ -16,7 +16,8 @@ public class Application {
 
 	@GetMapping("/test")
 	public String abc(){
-		return "hello";
+
+		return "hello1";
 	}
 
 }
